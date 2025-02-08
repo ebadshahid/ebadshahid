@@ -1,4 +1,4 @@
-## Hello! I'm Ebad Shahid – MSc Computer Science Candidate | Software-AI Engineer | AI, ML & Data Specialist
+## Hello! I'm Ebad Shahid – Master of Applied Computing | Software-AI Engineer | AI, ML & Data Specialist
 
 <!--
 **ebadshahid/ebadshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
