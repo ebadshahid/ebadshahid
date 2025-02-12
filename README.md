@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm pursuing my Master's degree in Applied Computer Science, specializing in Machine Learning, Data Science, and Advanced Algorithms. I’m passionate about building efficient data pipelines and using statistical models to turn raw data into meaningful insights. My academic background and hands-on experience with various data-driven projects enable me to thrive in engineering and analysis roles.
+I hold a Master's degree in Applied Computer Science, specializing in Machine Learning, Data Science, and Advanced Algorithms. I’m passionate about building efficient data pipelines and using statistical models to turn raw data into meaningful insights. My academic background and hands-on experience with various data-driven projects enable me to thrive in engineering and analysis roles.
 
 
 ### 🔧 Skills & Expertise:
-- **Languages:** Python, SQL, R  
+- **Languages:** Python, SQL, Java  
 - **Data Analysis:** Pandas, Numpy, Scipy  
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras  
 - **Data Engineering:** Apache Spark, Airflow, ETL pipelines  
