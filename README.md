@@ -1,7 +1,7 @@
-## Hello! I'm Ebad Shahid – Master of Applied Computing | AI, ML & Data Specialist | ✪ Certified by Google, Cisco & Microsoft 🚀
+## Hello! I'm Ebad Shahid 
 
 <!--
-**ebadshahid/ebadshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ebadshahid/ebadshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. – Master of Applied Computing | AI, ML & Data Specialist | ✪ Certified by Google, Cisco & Microsoft 🚀
 
 Here are some ideas to get you started:
 
